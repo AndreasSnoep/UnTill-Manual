@@ -1,2 +1,3 @@
 # Manual UnTill   
-First draft of the UnTill online manual
+Login chapter qua text compleet
+Placing an order chapter nog cancel ordered items invullen
