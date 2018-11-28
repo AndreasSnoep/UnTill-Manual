@@ -45,4 +45,4 @@ Press the <strong>Confirm</strong> button
 In the <strong>Order overview</strong> the voided item is now shown with -1 in front of it (or when a plural is selected the specific number is shown e.g. -5)  
 Press the <strong>Confirm</strong> button to finalize voiding the ordered item
 If you want to undo voiding an item <b><i>before you have finalized</i></b>, select the voided item and press the <strong>Void</strong> button again (your <strong>Order overview</strong> shows the item as a normal order) or press the <strong>Cancel</strong> button to undo voiding the item and immediately return to the <strong>Tablescreen</strong></code></pre>    
-*Next time you open the **Order overview** the voided item is not shown anymore, if you want to undo the voiding, **Order** the item again*  
+*Next time you open the **Order overview** the voided item is not shown anymore. If you want to undo the voiding, **Order** the item again*  
