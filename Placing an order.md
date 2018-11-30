@@ -42,13 +42,14 @@ To **remove the supplement**: you have to remove the whole item using the ![void
 *The text is now attached to the selected item and will also show on the designated screen(s) and/or printer(s)*   
 ### 2.5 Cancel ordered items   
 *Cancel one or more ordered items*   
-<pre><code>Select the item(s) in the <strong>Order overview</strong>   
-Click the <strong>Void</strong> button   
-On the screen a box appears asking waht the void reason is   
-Select a preset reason from the right side of the screen (your selected reason does not show anywhere on the screen)     
-(in case of a plural of an item enter the desired number using the numeric pad)   
-Press the <strong>Confirm</strong> button     
-In the <strong>Order overview</strong> the voided item is now shown with -1 in front of it (or when a plural is selected the specific number is shown e.g. -5)  
-Press the <strong>Confirm</strong> button to finalize voiding the ordered item
-If you want to undo voiding an item <b><i>before you have finalized</i></b>, select the voided item and press the <strong>Void</strong> button again (your <strong>Order overview</strong> shows the item as a normal order) or press the <strong>Cancel</strong> button to undo voiding the item and immediately return to the <strong>Tablescreen</strong></code></pre>    
+* Select the item(s) in the **Order overview** ![location](pictures/orderviewlocation.jpg)    
+* Click ![void](pictures/voidbutton.jpg)    
+* On the screen a box appears asking waht the void reason is  
+* Select a preset reason from the right side of the screen ![voidreason](pictures/voidreason.jpg) (your selected reason does not show anywhere on the screen)     
+(in case of a plural of an item enter the desired number using the numeric pad) ![numericpad](pictures/numericpadlocation.jpg)    
+* Press ![confirm](pictures/confirmbutton.jpg)      
+* In the **Order overview** the voided item is now shown with -1 in front of it (or when a plural is selected the specific number is shown e.g. -5) ![overview](pictures/orderoverview2.jpg)   
+* Press the ![confirm](pictures/confirmbutton.jpg) button to finalize voiding the ordered item
+* If you want to undo voiding an item <b><i>before you have finalized</i></b>, select the voided item in the **Order overview** and press the ![void](pictures/voidbutton.jpg) button again (your order overview now shows the item as a normal order) or press ![cancel](pictures/cancelbutton.jpg) to undo voiding the item and immediately and return to the **Tablescreen**  
+
 *Next time you open the **Order overview** the voided item is not shown anymore. If you want to undo the voiding, **Order** the item again*  
