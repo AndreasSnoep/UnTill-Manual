@@ -1,3 +1,4 @@
 # Testing to add pictures   
-![preview1](preview1.jpg)
-![testplaatje](testplaatje.jpg) 
+* Picture of the login button ![loginbutton](loginbutton.jpg)  
+* another line   
+
