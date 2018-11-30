@@ -17,18 +17,18 @@ Depending on the status of a table, a different colour is shown in the **Tablesc
 * Optionally you can select one of these buttons ![withwithout](pictures/withwithoutbuttons.jpg) to add as text to the option(s) (this will show on the order overview after you have selected the option)     
 * Select the option(s), you want to add, from the right side of the screen ![locationoption](pictures/locationoptions.jpg)   
 * Your chosen options show on the **Order overview** ![orderoverview1](pictures/orderoverviewwithoptionsandsupplements.jpg)     
-* Press ![confirm](pictures/confirmbutton.jpg) to finalize    
-*The added option is now attached to the selected item and will also show on the designated screen(s) and/or printer(s) 
+* Press ![confirm](pictures/confirmbutton.jpg) to finalize  
 
+*The added option is now attached to the selected item and will also show on the designated screen(s) and/or printer(s) 
 To **remove the option**: you have to remove the whole item using the ![void](pictures/voidbutton.jpg) button, then re-order the item and repeat the steps to add one or more options*   
 ### 2.4 Supplements    
 *Add one ore more preset supplements to an item (e.g. coffee "with applepie")*   
 * Select the item in the **Order overview** ![location](pictures/orderviewlocation.jpg) and click the ![supplement](pictures/supplementbutton.jpg) button   
 * Select the supplement(s) you want to add from the right side of the screen ![locationoption](pictures/locationoptions.jpg)   
 * Your chosen supplements show on the ![orderoverview1](pictures/orderoverviewwithoptionsandsupplements.jpg) including the additional cost (if any)    
-* Press ![confirm](pictures/confirmbutton.jpg) to finalize      
-*The added supplmenet is now attached to the selected item and will also show on the designated screen(s) and/or printer(s)  
+* Press ![confirm](pictures/confirmbutton.jpg) to finalize  
 
+*The added supplmenet is now attached to the selected item and will also show on the designated screen(s) and/or printer(s)  
 To **remove the supplement**: you have to remove the whole item using the ![void](pictures/voidbutton.jpg) button, then re-order the item and repeat the steps to add one or more supplements*   
 ### 2.4 Free text   
 *Add a free text to an item*   
