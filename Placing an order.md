@@ -4,8 +4,8 @@
 * Select the items you want to add to the order ![items](pictures/itemstoorder.jpg)       
   (in case of a plural of an item, enter the desired number using the **Numeric Pad** ![numericpad](pictures/numericpadlocation.jpg)  at the bottom left of the screen)  
 * The selected items appear in the **Order overview** at the top left corner of the screen ![location](pictures/orderviewlocation.jpg)    
-* To remove an item, click the item in the **Order overview** ![orderoverview](pictures/orderoverview.jpg) and press the ![void](pictures/voidbutton.jpg) button   
-* When the order is complete press the ![confirm](pictures/confirmbutton.jpg) button   
+* To remove an item, click the item in the **Order overview** ![orderoverview](pictures/orderoverview.jpg) and press ![void](pictures/voidbutton.jpg)    
+* When the order is complete press ![confirm](pictures/confirmbutton.jpg)   
 * The order is automatically shown and/or printed by the pre-assigned screen(s)/printer(s)
 * You will automatically return to the **Tablescreen** 
 * To return to the **Tablescreen** without placing an order: Click ![cancel](pictures/cancelbutton.jpg) <b><i>BEFORE</i></b> you press ![confirm](pictures/confirmbutton.jpg)  
@@ -15,7 +15,7 @@
 Depending on the status of a table, a different colour is shown in the **Tablescreen**. ![tablescreen](pictures/tablescreen.jpg) For instance, when it has been a while since a table placed a new order, the colour changes to red ![red](pictures/redtable.jpg) (colours can be adjusted to your own preferences)     
 ### 2.3 Options  
 *Add one ore more preset options to an item (e.g. tea "with milk")*  
-* Select the item in the **Order overview** ![location](pictures/orderviewlocation.jpg) and click the ![option](pictures/optionbutton.jpg) button
+* Select the item in the **Order overview** ![location](pictures/orderviewlocation.jpg) and click ![option](pictures/optionbutton.jpg) 
 * Optionally you can select one of these buttons ![withwithout](pictures/withwithoutbuttons.jpg) to add as text to the option(s) (this will show on the order overview after you have selected the option)     
 * Select the option(s), you want to add, from the right side of the screen ![locationoption](pictures/locationoptions.jpg)   
 * Your chosen options show on the **Order overview** ![orderoverview1](pictures/orderoverviewwithoptionsandsupplements.jpg)     
