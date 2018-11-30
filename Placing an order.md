@@ -29,7 +29,7 @@ Depending on the status of a table, a different colour is shown in the **Tablesc
 * Your chosen supplements show on the **Order overview** ![orderoverview1](pictures/orderoverviewwithoptionsandsupplements.jpg) including the additional cost (if any)    
 * Press ![confirm](pictures/confirmbutton.jpg) to finalize  
 
-*The added supplemenet is now attached to the selected item and will also show on the designated screen(s) and/or printer(s)  
+*The added supplement is now attached to the selected item and will also show on the designated screen(s) and/or printer(s)  
 To **remove the supplement**: you have to remove the whole item using the ![void](pictures/voidbutton.jpg) button, then re-order the item and repeat the steps to add one or more supplements*   
 ### 2.4 Free text   
 *Add a free text to an item*   
