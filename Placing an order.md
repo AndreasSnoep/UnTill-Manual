@@ -32,10 +32,11 @@ To **remove the option**: you have to remove the whole item using the ![void](pi
 To **remove the supplement**: you have to remove the whole item using the ![void](pictures/voidbutton.jpg) button, then re-order the item and repeat the steps to add one or more supplements*   
 ### 2.4 Free text   
 *Add a free text to an item*   
-<pre><code>Select the item in the <strong>Order overview</strong> and click the <strong>Message</strong> button   
-Type in the text you want to attach to the item on the keyboard that automatically pops up on screen   
-Your text shows on the <strong>Order overview</strong>    
-Press <strong>Confirm</strong> to finalize</code></pre>    
+* Select the item in the **Order overview** ![location](pictures/orderviewlocation.jpg) and click the ![message](pictures/messagebutton.jpg) button   
+* Type the text, you want to attach to the item, on the keyboard that automatically pops up on screen ![keyboard](pictures/keyboard.jpg)   
+* Your text shows on the **Order overview** ![orderoverview1](pictures/orderoverviewwithoptionsandsupplements.jpg)    
+* Press ![confirm](pictures/confirmbutton.jpg) to finalize  
+
 *The text is now attached to the selected item and will also show on the designated screen(s) and/or printer(s)*   
 ### 2.5 Cancel ordered items   
 *Cancel one or more ordered items*   
