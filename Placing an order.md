@@ -21,20 +21,19 @@ Depending on the status of a table, a different colour is shown in the **Tablesc
 * Your chosen options show on the **Order overview** ![orderoverview1](pictures/orderoverviewwithoptionsandsupplements.jpg)     
 * Press ![confirm](pictures/confirmbutton.jpg) to finalize  
 
-*The added option is now attached to the selected item and will also show on the designated screen(s) and/or printer(s) 
-To **remove the option**: you have to remove the whole item using the ![void](pictures/voidbutton.jpg) button, then re-order the item and repeat the steps to add one or more options*   
+*The added option is now attached to the selected item and will also show on the designated screen(s) and/or printer(s). To **remove the option**: you have to remove the whole item using the ![void](pictures/voidbutton.jpg) button, then re-order the item and repeat the steps to add one or more options*   
 ### 2.4 Supplements    
 *Add one ore more preset supplements to an item (e.g. coffee "with applepie")*   
-* Select the item in the **Order overview** ![location](pictures/orderviewlocation.jpg) and click the ![supplement](pictures/supplementbutton.jpg) button   
+* Select the item in the **Order overview** ![location](pictures/orderviewlocation.jpg) and click ![supplement](pictures/supplementbutton.jpg)    
 * Select the supplement(s) you want to add from the right side of the screen ![locationoption](pictures/locationoptions.jpg)   
-* Your chosen supplements show on the ![orderoverview1](pictures/orderoverviewwithoptionsandsupplements.jpg) including the additional cost (if any)    
+* Your chosen supplements show on the **Order overview** ![orderoverview1](pictures/orderoverviewwithoptionsandsupplements.jpg) including the additional cost (if any)    
 * Press ![confirm](pictures/confirmbutton.jpg) to finalize  
 
-*The added supplmenet is now attached to the selected item and will also show on the designated screen(s) and/or printer(s)  
+*The added supplemenet is now attached to the selected item and will also show on the designated screen(s) and/or printer(s)  
 To **remove the supplement**: you have to remove the whole item using the ![void](pictures/voidbutton.jpg) button, then re-order the item and repeat the steps to add one or more supplements*   
 ### 2.4 Free text   
 *Add a free text to an item*   
-* Select the item in the **Order overview** ![location](pictures/orderviewlocation.jpg) and click the ![message](pictures/messagebutton.jpg) button   
+* Select the item in the **Order overview** ![location](pictures/orderviewlocation.jpg) and click ![message](pictures/messagebutton.jpg)    
 * Type the text, you want to attach to the item, on the keyboard that automatically pops up on screen ![keyboard](pictures/keyboard.jpg)   
 * Your text shows on the **Order overview** ![orderoverview1](pictures/orderoverviewwithoptionsandsupplements.jpg)    
 * Press ![confirm](pictures/confirmbutton.jpg) to finalize  
@@ -44,12 +43,12 @@ To **remove the supplement**: you have to remove the whole item using the ![void
 *Cancel one or more ordered items*   
 * Select the item(s) in the **Order overview** ![location](pictures/orderviewlocation.jpg)    
 * Click ![void](pictures/voidbutton.jpg)    
-* On the screen a box appears asking waht the void reason is  
+* On the screen a box appears asking what the void reason is  
 * Select a preset reason from the right side of the screen ![voidreason](pictures/voidreason.jpg) (your selected reason does not show anywhere on the screen)     
-(in case of a plural of an item enter the desired number using the numeric pad) ![numericpad](pictures/numericpadlocation.jpg)    
+(in case of a plural of an item enter the desired number first, using the numeric pad) ![numericpad](pictures/numericpadlocation.jpg)    
 * Press ![confirm](pictures/confirmbutton.jpg)      
-* In the **Order overview** the voided item is now shown with -1 in front of it (or when a plural is selected the specific number is shown e.g. -5) ![overview](pictures/orderoverview2.jpg)   
-* Press the ![confirm](pictures/confirmbutton.jpg) button to finalize voiding the ordered item
-* If you want to undo voiding an item <b><i>before you have finalized</i></b>, select the voided item in the **Order overview** and press the ![void](pictures/voidbutton.jpg) button again (your order overview now shows the item as a normal order) or press ![cancel](pictures/cancelbutton.jpg) to undo voiding the item and immediately and return to the **Tablescreen**  
+* In the **Order overview** the voided item is now shown with -1 in front of it (or when a plural item is voided the specific number is shown e.g. -5) ![overview](pictures/orderoverview2.jpg)   
+* Press ![confirm](pictures/confirmbutton.jpg) to finalize voiding the ordered item
+* If you want to undo voiding an item <b><i>BEFORE YOU FINALIZED</i></b>, select the voided item in the **Order overview** and press ![void](pictures/voidbutton.jpg) again (your order overview now shows the item as a normal order) or press ![cancel](pictures/cancelbutton.jpg) to undo voiding the item and immediately return to the **Tablescreen**  
 
-*Next time you open the **Order overview** the voided item is not shown anymore. If you want to undo the voiding, **Order** the item again*  
+*Next time you open the **Order overview** the voided item is not shown anymore. If you want to undo voiding an item, **Order** the item again*  
