@@ -3,8 +3,8 @@
 * Click in the **Tablescreen** ![tablescreen](pictures/tablescreen.jpg) on the image of a table or a seat ![table](pictures/table.jpg)  
 * Select the items you want to add to the order ![items](pictures/itemstoorder.jpg)       
   (in case of a plural of an item enter the desired number using the **Numeric Pad** ![numericpad](pictures/numericpad.jpg)  in the bottom left of the screen)  
-* The selected items appear in the **Order overview** ![orderoverview](pictures/orderoverview.jpg) at the top left corner of the screen   
-* To remove an item, click on item in the **Order overview** and press the ![void](pictures/voidbutton.jpg) button   
+* The selected items appear in the **Order overview** at the top left corner of the screen ![location](pictures/orderviewlocation.jpg)    
+* To remove an item, click the item in the **Order overview** ![orderoverview](pictures/orderoverview.jpg) and press the ![void](pictures/voidbutton.jpg) button   
 * When the order is complete press the ![confirm](pictures/confirmbutton.jpg) button   
 * The order is automatically shown and/or printed by the pre-assigned screen(s)/printer(s)
 * You will automatically return to the **Tablescreen**   
