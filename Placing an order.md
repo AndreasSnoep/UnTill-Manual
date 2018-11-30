@@ -10,15 +10,16 @@
 * You will automatically return to the **Tablescreen**   
 *You can keep adding orders to the bill by repeating these steps until the bill is closed*     
 ### 2.2 Table Colours   
-<pre><code>Depending on the status of a table, a different colour is shown in the <strong>Tablescreen</strong>. For instance, when it has been a while since a table placed a new order, the colour changes to red (colours can be adjusted to your own preferences)</code></pre>   
+Depending on the status of a table, a different colour is shown in the **Tablescreen**. ![tablescreen](pictures/tablescreen.jpg) For instance, when it has been a while since a table placed a new order, the colour changes to red ![red](pictures/redtable.jpg) (colours can be adjusted to your own preferences)</code></pre>   
 ### 2.3 Options  
 *Add a preset option to an item (e.g. tea "with milk")*  
-<pre><code>Select the item in the <strong>Order overview</strong> and click the <strong>Option</strong> button   
-Select the option, you want to add, from the right side of the screen   
-Your chosen option shows on the <strong>Order overview</strong>    
-Press <strong>Confirm</strong> to finalize</code></pre>    
+* Select the item in the **Order overview** ![location](pictures/orderviewlocation.jpg) and click the ![option](pictures/optionbutton.jpg) button
+* Optionally you can select one of these buttons ![withwithout](pictures/withwithoutbuttons.jpg) to add as text to the option(s) (this will show on the order overview after you have selected the option)     
+* Select the option(s), you want to add, from the right side of the screen ![locationoption](pictures/locationoptions.jpg)   
+* Your chosen options show on the **Order overview** ![orderoverview1](pictures/orderoverviewwithoptionsandsupplements.jpg)     
+* Press ![confirm](pictures/confirmbutton.jpg) to finalize    
 *The added option is now attached to the selected item and will also show on the designated screen(s) and/or printer(s)  
-To <strong>remove the option</strong>: select the option to be removed and press the <strong>Void</strong> button*   
+To **remove the option**: you have to remove the whole item using the ![void](pictures/voidbutton.jpg) button, then re-order the item and repeat the steps to add one or more options*   
 ### 2.4 Supplements    
 *Add a preset supplement to an item (e.g. coffee "with applepie")*   
 <pre><code>Select the item in the <strong>Order overview</strong> and click the <strong>Supplement</strong> button   
