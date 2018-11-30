@@ -7,10 +7,12 @@
 * To remove an item, click the item in the **Order overview** ![orderoverview](pictures/orderoverview.jpg) and press the ![void](pictures/voidbutton.jpg) button   
 * When the order is complete press the ![confirm](pictures/confirmbutton.jpg) button   
 * The order is automatically shown and/or printed by the pre-assigned screen(s)/printer(s)
-* You will automatically return to the **Tablescreen**   
+* You will automatically return to the **Tablescreen** 
+* To return to the **Tablescreen** without placing an order: Click ![cancel](pictures/cancelbutton.jpg) <b><i>BEFORE</i></b> you press ![confirm](pictures/confirmbutton.jpg)  
+
 *You can keep adding orders to the bill by repeating these steps until the bill is closed*     
 ### 2.2 Table Colours   
-Depending on the status of a table, a different colour is shown in the **Tablescreen**. ![tablescreen](pictures/tablescreen.jpg) For instance, when it has been a while since a table placed a new order, the colour changes to red ![red](pictures/redtable.jpg) (colours can be adjusted to your own preferences)</code></pre>   
+Depending on the status of a table, a different colour is shown in the **Tablescreen**. ![tablescreen](pictures/tablescreen.jpg) For instance, when it has been a while since a table placed a new order, the colour changes to red ![red](pictures/redtable.jpg) (colours can be adjusted to your own preferences)     
 ### 2.3 Options  
 *Add one ore more preset options to an item (e.g. tea "with milk")*  
 * Select the item in the **Order overview** ![location](pictures/orderviewlocation.jpg) and click the ![option](pictures/optionbutton.jpg) button
