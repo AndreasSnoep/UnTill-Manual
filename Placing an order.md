@@ -1,13 +1,13 @@
 # Placing an order   
 ### 2.1 Ordering Items   
-<pre><code>Click in the <strong>Tablescreen</strong> on the icon of a table or a seat  
-Select the items you want to add to the order  
-(in case of a plural of an item enter the desired number using the numeric pad)  
-The selected items appear in the <strong>Order overview</strong> at the top left corner of the screen   
-To remove an item, select the item in the <strong>Order overview</strong> and press the <strong>Void</strong> button   
-When the order is complete press the <strong>Confirm</strong> button   
-The order is automatically shown and/or printed by the pre-assigned screen(s)/printer(s)
-You will automatically return to the <strong>Tablescreen</strong></code></pre>  
+* Click in the **Tablescreen** ![tablescreen](pictures/tablescreen.jpg) on the image of a table or a seat ![table](pictures/table.jpg)  
+* Select the items you want to add to the order ![items](pictures/itemstoorder.jpg)       
+  (in case of a plural of an item enter the desired number using the **Numeric Pad** ![numericpad](pictures/numericpad.jpg)  in the bottom left of the screen)  
+* The selected items appear in the **Order overview** ![orderoverview](pictures/orderoverview.jpg)  at the top left corner of the screen   
+* To remove an item, select the item in the **Order overview** and press the **Void** button   
+* When the order is complete press the <strong>Confirm</strong> button   
+* The order is automatically shown and/or printed by the pre-assigned screen(s)/printer(s)
+* You will automatically return to the **Tablescreen**   
 *You can keep adding orders to the bill by repeating these steps until the bill is closed*     
 ### 2.2 Table Colours   
 <pre><code>Depending on the status of a table, a different colour is shown in the <strong>Tablescreen</strong>. For instance, when it has been a while since a table placed a new order, the colour changes to red (colours can be adjusted to your own preferences)</code></pre>   
