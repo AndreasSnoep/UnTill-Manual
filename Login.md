@@ -3,7 +3,7 @@
 ### 1.1 **Wristband or Card**
 * Place in front of the reader</code></pre>
 ### 1.2 **User code**    
-* Click the **Login** button on the screen   
+* Click the ![loginbutton](pictures/loginbutton.jpg) button on the screen   
 * Type in your user code on the numeric pad and press the **Confirm** button
 
 *When the login is correct the overview screen **Tablescreen** is automatically shown  
