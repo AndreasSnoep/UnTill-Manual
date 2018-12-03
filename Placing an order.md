@@ -2,8 +2,8 @@
 ### 2.1 Ordering Items   
 * Click in the **Tablescreen** ![tablescreen](pictures/tablescreen.jpg) on the image of a table or a seat ![table](pictures/table.jpg)  
 * Select the items you want to add to the order ![items](pictures/itemstoorder.jpg)       
-  in case of a plural of an item, enter the desired number using the **Numeric Pad** ![numericpad](pictures/numericpadlocation.jpg)  at the bottom left of the screen  
-* The selected items appear in the **Order overview** at the top left corner of the screen ![location](pictures/orderviewlocation.jpg)    
+  in case of a plural of an item, enter the desired number using the **Numeric Pad** ![numericpad](pictures/numericpadlocation.jpg)   
+* The selected items appear in the **Order overview** ![location](pictures/orderviewlocation.jpg)    
 * To remove an item, click the item in the **Order overview** ![orderoverview](pictures/orderoverview.jpg) and press ![void](pictures/voidbutton.jpg)    
 * When the order is complete press ![confirm](pictures/confirmbutton.jpg)   
 * The order is automatically shown and/or printed by the pre-assigned screen(s)/printer(s)
@@ -25,7 +25,7 @@ Depending on the status of a table, a different colour is shown in the **Tablesc
 ### 2.4 Supplements    
 *Add one ore more preset supplements to an item (e.g. coffee "with applepie")*   
 * Select the item in the **Order overview** ![location](pictures/orderviewlocation.jpg) and click ![supplement](pictures/supplementbutton.jpg)    
-* Select the supplement(s) you want to add from the right side of the screen ![locationoption](pictures/locationoptions.jpg)   
+* Select the supplement(s) you want to add ![locationoption](pictures/locationoptions.jpg)   
 * Your chosen supplements show on the **Order overview** ![orderoverview1](pictures/orderoverviewwithoptionsandsupplements.jpg) including the additional cost (if any)    
 * Press ![confirm](pictures/confirmbutton.jpg) to finalize  
 
@@ -41,14 +41,15 @@ To **remove the supplement**: you have to remove the whole item using the ![void
 *The text is now attached to the selected item and will also show on the designated screen(s) and/or printer(s)*   
 ### 2.5 Cancel ordered items   
 *Cancel one or more ordered items*   
-* Select the item(s) in the **Order overview** ![location](pictures/orderviewlocation.jpg)    
+* Select the item in the **Order overview** ![location](pictures/orderviewlocation.jpg)    
 * Click ![void](pictures/voidbutton.jpg)    
 * On the screen a box appears asking what the void reason is  
 * Select a preset reason from the right side of the screen ![voidreason](pictures/voidreason.jpg) (your selected reason does not show anywhere on the screen)     
 (in case of a plural of an item enter the desired number first, using the numeric pad) ![numericpad](pictures/numericpadlocation.jpg)    
 * Press ![confirm](pictures/confirmbutton.jpg)      
-* In the **Order overview** the voided item is now shown with -1 in front of it (or when a plural item is voided the specific number is shown e.g. -5) ![overview](pictures/orderoverview2.jpg)   
+* In the **Order overview** the voided item is now shown with -1 in front of it (or when a plural item is voided the specific number is shown e.g. -5) ![overview](pictures/orderoverview2.jpg)
+* Repeat these steps to remove more items  
 * Press ![confirm](pictures/confirmbutton.jpg) to finalize voiding the ordered item
 * If you want to undo voiding an item <b><i>BEFORE YOU FINALIZED</i></b>, select the voided item in the **Order overview** and press ![void](pictures/voidbutton.jpg) again (your order overview now shows the item as a normal order) or press ![cancel](pictures/cancelbutton.jpg) to undo voiding the item and immediately return to the **Tablescreen**  
 
-*Next time you open the **Order overview** the voided item is not shown anymore. If you want to undo voiding an item, **Order** the item again*  
+*Next time you open the **Order overview** the voided item is not shown. If you want to undo voiding an item, **Order** the item again*  
