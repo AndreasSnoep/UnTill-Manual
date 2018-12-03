@@ -9,7 +9,7 @@
 * A **Bill result** is shown ![billresult](pictures/billresult.jpg)    
 * Press ![confirm](pictures/confirmbutton.jpg) to transfer the whole table   
 
-*You automatically return to the **Tablescreen**, to **undo** the transfer simply transfer the table again. Note that if you added to an existing bill you **can't** undo the transfer as one but you have to use <b>transfer part of the table</b>*   
+*You automatically return to the **Tablescreen**, to **undo** the transfer. Simply transfer the table again. Note that if you added to an existing bill you **can't** undo the transfer as one but you have to use <b>transfer part of the table</b>*   
 ### 3.2 Transfer part of the table   
 *Transfer part of the table/bill to another table/bill*
 * Press ![transfer](pictures/transferbutton.jpg) in the **Tablescreen** ![tablescreen](pictures/tablescreen.jpg)   
