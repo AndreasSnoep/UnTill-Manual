@@ -1,7 +1,9 @@
 # **Login**    
 ***
 ### 1.1 **Wristband or Card**
-* Place in front of the reader   
+* Place in front of the reader  
+
+*After a succesful log in, you will automatically end up in the* **Tablescreen** ![tablescreen](pictures/tablescreen.jpg) 
 ### 1.2 **User code**    
 * Type in your user code on the numeric pad ![numericpad](pictures/loginnumericpad.jpg) and press the ![confirmbutton](pictures/confirmbutton.jpg) button
 * When you want to switch between users: click the ![loginbutton](pictures/loginbutton.jpg) button on the screen and enter the user code in the numeric pad that pops up
