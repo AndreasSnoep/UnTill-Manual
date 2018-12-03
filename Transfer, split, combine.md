@@ -4,7 +4,7 @@
 * Press ![transfer](pictures/transferbutton.jpg) in the **Tablescreen** ![tablescreen](pictures/tablescreen.jpg)   
 * In the upper left corner the text **From table....** appears ![textlocation](pictures/waiternametablescreen.jpg)    
 * Select the table you want to transfer (in case of a **Split** table, ![severalbills](pictures/splittableoverview.jpg)  you have to select the bill to be transfered)  
-* The text in the upper left corner changes into **...To table**    
+* The text in the upper left corner changes in **...To table**    
 * Click the table you want to transfer to (in case of a **Split** table, select the part under the boxes marked with a letter, the bill gets added to this part of the table, creating a new part or adding to an existing part,)       
 * A **Bill result** is shown ![billresult](pictures/billresult.jpg)    
 * Press ![confirm](pictures/confirmbutton.jpg) to transfer the whole table   
@@ -14,8 +14,8 @@
 *Transfer part of the table/bill to another table/bill*
 * Press ![transfer](pictures/transferbutton.jpg) in the **Tablescreen** ![tablescreen](pictures/tablescreen.jpg)   
 * In the upper left corner the text **From table....** appears ![textlocation](pictures/waiternametablescreen.jpg)    
-* Select the table you want to transfer (in case of a **Split** table, ![severalbills](pictures/splittableoverview.jpg)  you have to select the bill to be transfered)  
-* The text in the upper left corner changes into **...To table**    
+* Select the table you want to transfer (in case of a **Split** table, ![severalbills](pictures/splittableoverview.jpg) you have to select the bill to be transfered)  
+* The text in the upper left corner changes in **...To table**    
 * Click the table you want to transfer to (in case of a **Split** table, select the part under the boxes marked with a letter, the bill gets added to this part of the table, creating a new part or adding to an existing part)       
 * A **Bill result** is shown ![billresult](pictures/billresult.jpg)    
 * Press ![transferarticle](pictures/transferarticlebutton.jpg) 
@@ -36,4 +36,8 @@
 
 *Next time you select this table an overview of the separate bills is shown, select the bill you want to add orders to*  
 ![splittable](pictures/splittableoverview.jpg)  
-*To undo a split bill use transfer and add the bill to the same table under another letter* 
+*To undo a split bill use transfer and add the bill to the same table under another letter*
+### 3.4 Book multiple tables to one bill
+*Book multiple tables to one bill. If a table is already in use you can only combine it with empty tables*
+* Press the word **Manager** ![managerlocation](pictures/managerbutton.jpg)  
+* Select ![combinebutton](pictures/1.Combineertafels-act.png) 
